@@ -15,5 +15,8 @@ Skyfall Launcher, resmi olmayan bir Minecraft launcher'ıdır. Oyunun ilk yayım
 > 📜 Fabric/Forge desteği  
 > 🛠️ Hata ayıklama sisteminin geliştirilmesi ve detaylandırılması  
 
+## Kısayol Oluşturma:
+Şimdilik kurulumdan sonra otomatik kısayol oluşturmada bazı sıkıntılar var, o yüzden manüel olarak `C:\Program Files (x86)\Odyrkap Studios\Skyfall Launcher\net8.0-windows\net8.0-windows\SkyfallLauncher.exe` yoluna kısayol oluşturmanız gerekli.
+
 ## OYUNCULARA UYARIMIZ
 Skyfall Launcher, resmi bir başlatıcı ***değildir!!***. Minecraft, ***Mojang/Microsoft***un ürünüdür. Bu proje sadece eğitim amaçlı yapılmıştır!  
