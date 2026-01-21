@@ -11,7 +11,6 @@ Skyfall Launcher, resmi olmayan bir Minecraft launcher'ıdır. Oyunun ilk yayım
 
 ## Planlanan güncellemeler
 > 📜 Modloader desteği  
-> 📜 Fabric/Forge desteği  
 > 🛠️ Hata ayıklama sisteminin geliştirilmesi ve detaylandırılması
 
 ## NOT!
